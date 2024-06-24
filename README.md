@@ -1,4 +1,10 @@
 ## Hi there 👋
+Meu nome é Geovanna Laurentino 
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](https://images.app.goo.gl/spt3AzWBHScve6WM9)
 
 <!--
 **geLaurentino/geLaurentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
